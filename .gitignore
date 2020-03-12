@@ -44,3 +44,6 @@ Win32/Debug/build/CFixedPoint.vcxproj.FileListAbsolute.txt
 Win32/Debug/build/CFixedPointTests.vcxproj.FileListAbsolute.txt
 x64/Debug/build/CFixedPoint.vcxproj.FileListAbsolute.txt
 x64/Debug/build/CFixedPointTests.vcxproj.FileListAbsolute.txt
+*.db-wal
+*.opendb
+*.db-shm
